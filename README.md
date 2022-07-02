@@ -1,2 +1,1 @@
-# NFT Marketplace platform 
-Mohamed Ariff
+# NFT Marketplace platform  - Mohamed Ariff
